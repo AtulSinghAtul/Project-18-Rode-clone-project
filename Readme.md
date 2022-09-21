@@ -2,13 +2,13 @@
 
 # Rode Website Clone Project
 
-- ## In this Project I have build clone of [Rode](https://ineuron-paytm-clone-project-16.netlify.app/) website.
+- ## In this Project I have build clone of [Rode](https://ineuron-rode-clone-project-18.netlify.app/) website.
 
 - ## I have build this entire UI of Rode website with tailwind CSS.
 
 ---
 
-- [Rode Project Live Link](https://ineuron-paytm-clone-project-16.netlify.app/)
+- [Rode Project Live Link](https://ineuron-rode-clone-project-18.netlify.app/)
 
 ## Time-taken: 16hrs
 
