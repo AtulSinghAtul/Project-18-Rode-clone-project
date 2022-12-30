@@ -32,4 +32,5 @@
 
 ![time taken](https://img.shields.io/badge/Project-18-green) ![time taken](https://img.shields.io/badge/Rode%20Clone-HTML%20%26%20Tailwind%20CSS-orange)
 
-![Rode clone screenshot](assets/Rode%20Microphone%20Screenshot.png)
+![rode-clone-project-18](https://user-images.githubusercontent.com/112545072/210029609-40d84530-17a3-4ebd-af4d-49e95e1efe88.png)
+
