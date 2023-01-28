@@ -3,7 +3,6 @@
 # Rode Website Clone Project
 
 - ## In this Project I have build clone of [Rode](https://ineuron-rode-clone-project-18.netlify.app/) website.
-
 - ## I have build this entire UI of Rode website with tailwind CSS.
 
 ---
